@@ -35,7 +35,7 @@
     "jest-worker": "^24.6.0",
     "rollup-pluginutils": "^2.8.1",
     "serialize-javascript": "^2.1.2",
-    "terser": "^4.1.0"
+    "terser": "^4.6.2"
   },
   "peerDependencies": {
     "rollup": ">=0.66.0 <2"
